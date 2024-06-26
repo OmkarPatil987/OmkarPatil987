@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/real_omkarpatil" target="blank"><img src="https://img.shields.io/twitter/follow/real_omkarpatil?logo=twitter&style=for-the-badge" alt="real_omkarpatil" /></a> </p>
 
-- 🔭 I’m currently working on **fashion store**
+- 🔭 I’m currently working on **E commerce Application**
 
-- 🌱 I’m currently learning **SpringBoot ,React JS**
+- 🌱 I’m currently learning **SpringBoot ,React JS,Node JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/OmkarPatil987?tab=repositories](https://github.com/OmkarPatil987?tab=repositories)
 
-- 📝 I regularly write articles on [https://javamantrabyomkar.hashnode.dev/](https://javamantrabyomkar.hashnode.dev/)
 
 - 💬 Ask me about **Java Backend ,React**
 
